@@ -1,0 +1,24 @@
+html body {
+	padding: 10px;
+	clear: both;
+	float: left;
+}
+
+#singleBlogPost {
+	padding: 10px;
+	margin-bottom: 50px;
+
+	border-width: 2px;
+	border-style: solid;
+	border-color: blue;
+}
+#blogPostCreation {
+	border-width: 2px;
+	border-style: solid;
+	border-color: black;
+}
+
+#blogPostCreation> * {
+	margin: 10px;
+
+}
